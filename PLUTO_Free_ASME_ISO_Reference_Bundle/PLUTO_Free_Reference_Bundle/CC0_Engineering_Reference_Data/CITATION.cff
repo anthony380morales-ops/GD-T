@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Engineering reference data
+authors:
+  - name: MakeNexa
+repository-code: https://github.com/makenexa/engineering-reference-data
+url: https://makenexa.github.io/engineering-reference-data/
+license: CC0-1.0
+date-released: "2026-08-16"
+keywords:
+  - GD&T
+  - ASME Y14.5
+  - ISO 1101
+  - surface roughness

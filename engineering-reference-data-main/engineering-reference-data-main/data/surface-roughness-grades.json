@@ -1,0 +1,62 @@
+[
+  {
+    "grade": "N1",
+    "ra_um": "0.025",
+    "ra_uin_conventional": "1"
+  },
+  {
+    "grade": "N2",
+    "ra_um": "0.05",
+    "ra_uin_conventional": "2"
+  },
+  {
+    "grade": "N3",
+    "ra_um": "0.1",
+    "ra_uin_conventional": "4"
+  },
+  {
+    "grade": "N4",
+    "ra_um": "0.2",
+    "ra_uin_conventional": "8"
+  },
+  {
+    "grade": "N5",
+    "ra_um": "0.4",
+    "ra_uin_conventional": "16"
+  },
+  {
+    "grade": "N6",
+    "ra_um": "0.8",
+    "ra_uin_conventional": "32"
+  },
+  {
+    "grade": "N7",
+    "ra_um": "1.6",
+    "ra_uin_conventional": "63"
+  },
+  {
+    "grade": "N8",
+    "ra_um": "3.2",
+    "ra_uin_conventional": "125"
+  },
+  {
+    "grade": "N9",
+    "ra_um": "6.3",
+    "ra_uin_conventional": "250"
+  },
+  {
+    "grade": "N10",
+    "ra_um": "12.5",
+    "ra_uin_conventional": "500"
+  },
+  {
+    "grade": "N11",
+    "ra_um": "25",
+    "ra_uin_conventional": "1000"
+  },
+  {
+    "grade": "N12",
+    "ra_um": "50",
+    "ra_uin_conventional": "2000"
+  }
+]

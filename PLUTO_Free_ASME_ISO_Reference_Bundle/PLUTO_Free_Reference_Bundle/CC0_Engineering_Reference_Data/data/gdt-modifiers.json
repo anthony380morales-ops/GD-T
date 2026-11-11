@@ -1,0 +1,137 @@
+[
+  {
+    "modifier": "MMC",
+    "meaning": "maximum material condition",
+    "symbol": "Ⓜ",
+    "codepoint": "U+24C2",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER M",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "LMC",
+    "meaning": "least material condition",
+    "symbol": "Ⓛ",
+    "codepoint": "U+24C1",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER L",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "RFS",
+    "meaning": "regardless of feature size",
+    "symbol": "Ⓢ",
+    "codepoint": "U+24C8",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER S",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": "legacy - RFS applies by default and the symbol is no longer used in ASME practice"
+  },
+  {
+    "modifier": "Projected tolerance zone",
+    "meaning": "projected tolerance zone",
+    "symbol": "Ⓟ",
+    "codepoint": "U+24C5",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER P",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "Free state",
+    "meaning": "free state",
+    "symbol": "Ⓕ",
+    "codepoint": "U+24BB",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER F",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "Tangent plane",
+    "meaning": "tangent plane",
+    "symbol": "Ⓣ",
+    "codepoint": "U+24C9",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER T",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "Unequally disposed",
+    "meaning": "unequally disposed profile",
+    "symbol": "Ⓤ",
+    "codepoint": "U+24CA",
+    "unicode_name": "CIRCLED LATIN CAPITAL LETTER U",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "Diameter",
+    "meaning": "diameter",
+    "symbol": "⌀",
+    "codepoint": "U+2300",
+    "unicode_name": "DIAMETER SIGN",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "Counterbore",
+    "meaning": "counterbore or spotface",
+    "symbol": "⌴",
+    "codepoint": "U+2334",
+    "unicode_name": "COUNTERBORE",
+    "codepoint_dedicated_to_gdt": "yes",
+    "note": ""
+  },
+  {
+    "modifier": "Countersink",
+    "meaning": "countersink",
+    "symbol": "⌵",
+    "codepoint": "U+2335",
+    "unicode_name": "COUNTERSINK",
+    "codepoint_dedicated_to_gdt": "yes",
+    "note": ""
+  },
+  {
+    "modifier": "Depth",
+    "meaning": "depth or deep",
+    "symbol": "↧",
+    "codepoint": "U+21A7",
+    "unicode_name": "DOWNWARDS ARROW FROM BAR",
+    "codepoint_dedicated_to_gdt": "no",
+    "note": ""
+  },
+  {
+    "modifier": "All around",
+    "meaning": "all around",
+    "symbol": "⌮",
+    "codepoint": "U+232E",
+    "unicode_name": "ALL AROUND-PROFILE",
+    "codepoint_dedicated_to_gdt": "yes",
+    "note": ""
+  },
+  {
+    "modifier": "Dimension origin",
+    "meaning": "dimension origin",
+    "symbol": "⌱",
+    "codepoint": "U+2331",
+    "unicode_name": "DIMENSION ORIGIN",
+    "codepoint_dedicated_to_gdt": "yes",
+    "note": ""
+  },
+  {
+    "modifier": "Conical taper",
+    "meaning": "conical taper",
+    "symbol": "⌲",
+    "codepoint": "U+2332",
+    "unicode_name": "CONICAL TAPER",
+    "codepoint_dedicated_to_gdt": "yes",
+    "note": ""
+  },
+  {
+    "modifier": "Slope",
+    "meaning": "slope",
+    "symbol": "⌳",
+    "codepoint": "U+2333",
+    "unicode_name": "SLOPE",
+    "codepoint_dedicated_to_gdt": "yes",
+    "note": ""
+  }
+]

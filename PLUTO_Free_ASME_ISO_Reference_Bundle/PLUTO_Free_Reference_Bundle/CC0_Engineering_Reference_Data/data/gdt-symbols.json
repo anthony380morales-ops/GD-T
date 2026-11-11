@@ -1,0 +1,156 @@
+[
+  {
+    "characteristic": "Straightness",
+    "category": "form",
+    "datum_required": "no",
+    "symbol": "⏤",
+    "codepoint": "U+23E4",
+    "unicode_name": "STRAIGHTNESS",
+    "codepoint_dedicated_to_gdt": "yes",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Flatness",
+    "category": "form",
+    "datum_required": "no",
+    "symbol": "⏥",
+    "codepoint": "U+23E5",
+    "unicode_name": "FLATNESS",
+    "codepoint_dedicated_to_gdt": "yes",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Circularity",
+    "category": "form",
+    "datum_required": "no",
+    "symbol": "○",
+    "codepoint": "U+25CB",
+    "unicode_name": "WHITE CIRCLE",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Cylindricity",
+    "category": "form",
+    "datum_required": "no",
+    "symbol": "⌭",
+    "codepoint": "U+232D",
+    "unicode_name": "CYLINDRICITY",
+    "codepoint_dedicated_to_gdt": "yes",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Profile of a line",
+    "category": "profile",
+    "datum_required": "optional",
+    "symbol": "⌒",
+    "codepoint": "U+2312",
+    "unicode_name": "ARC",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Profile of a surface",
+    "category": "profile",
+    "datum_required": "optional",
+    "symbol": "⌓",
+    "codepoint": "U+2313",
+    "unicode_name": "SEGMENT",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Angularity",
+    "category": "orientation",
+    "datum_required": "yes",
+    "symbol": "∠",
+    "codepoint": "U+2220",
+    "unicode_name": "ANGLE",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Perpendicularity",
+    "category": "orientation",
+    "datum_required": "yes",
+    "symbol": "⟂",
+    "codepoint": "U+27C2",
+    "unicode_name": "PERPENDICULAR",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Parallelism",
+    "category": "orientation",
+    "datum_required": "yes",
+    "symbol": "∥",
+    "codepoint": "U+2225",
+    "unicode_name": "PARALLEL TO",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Position",
+    "category": "location",
+    "datum_required": "yes",
+    "symbol": "⌖",
+    "codepoint": "U+2316",
+    "unicode_name": "POSITION INDICATOR",
+    "codepoint_dedicated_to_gdt": "yes",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Concentricity",
+    "category": "location",
+    "datum_required": "yes",
+    "symbol": "◎",
+    "codepoint": "U+25CE",
+    "unicode_name": "BULLSEYE",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "withdrawn",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Symmetry",
+    "category": "location",
+    "datum_required": "yes",
+    "symbol": "⌯",
+    "codepoint": "U+232F",
+    "unicode_name": "SYMMETRY",
+    "codepoint_dedicated_to_gdt": "yes",
+    "asme_y14_5_2018": "withdrawn",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Circular runout",
+    "category": "runout",
+    "datum_required": "yes",
+    "symbol": "↗",
+    "codepoint": "U+2197",
+    "unicode_name": "NORTH EAST ARROW",
+    "codepoint_dedicated_to_gdt": "no",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  },
+  {
+    "characteristic": "Total runout",
+    "category": "runout",
+    "datum_required": "yes",
+    "symbol": "⌰",
+    "codepoint": "U+2330",
+    "unicode_name": "TOTAL RUNOUT",
+    "codepoint_dedicated_to_gdt": "yes",
+    "asme_y14_5_2018": "active",
+    "iso_1101": "active"
+  }
+]
